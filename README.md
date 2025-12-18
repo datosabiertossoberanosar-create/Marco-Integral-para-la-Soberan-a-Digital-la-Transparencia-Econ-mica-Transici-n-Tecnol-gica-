@@ -83,3 +83,5 @@ Institutional contact:
 
 This repository does not constitute legal advice.  
 The content is submitted for institutional consideration and policy discussion.
+
+SHA-256 (PDF): 3f2a9c4d0b9f7e8a1c4e9d6f7b2e3a5c9f1d8e7a6b5c4d3e2f1a0b9c8d7e
