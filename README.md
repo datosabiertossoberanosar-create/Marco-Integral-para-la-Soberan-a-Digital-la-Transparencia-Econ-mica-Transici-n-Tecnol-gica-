@@ -77,6 +77,8 @@ Reproduction, translation or adaptation is permitted **with proper attribution**
 Institutional contact:  
 **datosabiertossoberanosar@gmail.com**
 
+v1.1 incorpora Artículo 105° de Articulación Territorial e Hídrica (sin modificación del objeto ni estructura del proyecto).”
+
 ---
 
 ## Disclaimer
