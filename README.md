@@ -62,6 +62,8 @@ Any modification of the content after this publication invalidates the original 
 
 ## License and Use
 
+Licencia:
+Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
 This document is shared for purposes of:
 - legislative evaluation  
 - academic analysis  
